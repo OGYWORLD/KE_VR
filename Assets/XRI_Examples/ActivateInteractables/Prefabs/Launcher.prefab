@@ -847,6 +847,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 96465223918091920, guid: f49dc5cd64a1e004c988509fc919b348, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 96465223918091920, guid: f49dc5cd64a1e004c988509fc919b348, type: 3}
       propertyPath: m_Activated.m_PersistentCalls.m_Calls.Array.size
       value: 3
       objectReference: {fileID: 0}
@@ -989,6 +993,10 @@ PrefabInstance:
     - target: {fileID: 4659393564689671919, guid: f49dc5cd64a1e004c988509fc919b348, type: 3}
       propertyPath: m_Mass
       value: 0.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4659393564689671919, guid: f49dc5cd64a1e004c988509fc919b348, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4748400041931490758, guid: f49dc5cd64a1e004c988509fc919b348, type: 3}
       propertyPath: m_LocalPosition.y
